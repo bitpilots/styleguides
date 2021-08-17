@@ -1,0 +1,15 @@
+inherit_from:
+  - https://relaxed.ruby.style/rubocop.yml
+
+AllCops:
+  NewCops: enable
+  Exclude:
+    - 'db/**/*'
+    - 'script/**/*'
+    - 'bin/**/*'
+
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
+
+# Style/FrozenStringLiteralComment:
+#   Enabled: false
