@@ -12,7 +12,7 @@ Naming/VariableNumber:
   EnforcedStyle: snake_case
 
 Layout/MultilineMethodCallIndentation:
-  EnforcedStyle: align
+  EnforcedStyle: aligned
 
 # Style/FrozenStringLiteralComment:
 #   Enabled: false
