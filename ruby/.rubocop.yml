@@ -11,5 +11,8 @@ AllCops:
 Naming/VariableNumber:
   EnforcedStyle: snake_case
 
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: align
+
 # Style/FrozenStringLiteralComment:
 #   Enabled: false
